@@ -1,0 +1,18 @@
+id;background_id;item_id;character_id_left;character_id_right;text
+1;7;1;1;1;This book is: [Charlie et ses amis gris](Charlie and his grey friends) by Katie Paxton-Fear
+2;4;1;2;1;Charlie: <invisible:left><fadein:left><chat:left>[Bonjour](hello), [je m'appelle](my name is) Charlie!
+3;4;1;2;1;Charlie: <chat:left>et [je suis](i am) un Chameleon!
+4;4;1;2;1;Charlie: <chat:left>[je peux](i can) changer ma couleur
+5;4;1;2;1;Charlie: <chat:left>je suis [bleu](blue) 
+6;4;1;2;1;Charlie: <chat:left>je suis [rouge](red) 
+7;4;1;2;1;Charlie: <chat:left>je suis [violette](purple) 
+8;4;1;2;1;Charlie: <chat:left>je suis [juene](yellow) 
+9;4;1;2;1;Charlie: <chat:left>je suis [vert](green) 
+10;4;1;2;1;Charlie: <chat:left>[j'aime](I like) changer ma coleur
+11;4;1;2;1;Charlie: <chat:left>[je veux](I want) vister mes [amis](friends) 
+12;5;1;2;3;Charlie: Bonjour Ryan !!!<invisible:right><fadein:right><invisible:left>
+12;5;1;2;3;Ryan: <chat:right><visible:left>Ah Bonjour, petit chameleon
+12;5;1;2;3;Ryan: <chat:right>[Ça va](how are you) Charlie ?
+12;5;1;2;3;Charlie: <chat:left>je suis [bien](great), et [toi](you) ?
+12;5;1;2;3;Ryan: <chat:right>eh! 
+12;5;1;2;3;Ryan: <chat:right>eh! ça va [mal](bad), [je perde](i lost] [mon chapeau](my hat)

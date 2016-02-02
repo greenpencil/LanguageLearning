@@ -1,0 +1,4 @@
+name=Charlie et ses amis
+description=French - English book on friendship and colours
+creator=Katie Paxton-Fear
+folder=data
