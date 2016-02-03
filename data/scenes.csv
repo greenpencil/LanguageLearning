@@ -15,4 +15,4 @@ id;background_id;item_id;character_id_left;character_id_right;text
 12;5;1;2;3;Ryan: <chat:right>[Ça va](how are you) Charlie ?
 12;5;1;2;3;Charlie: <chat:left>je suis [bien](great), et [toi](you) ?
 12;5;1;2;3;Ryan: <chat:right>eh! 
-12;5;1;2;3;Ryan: <chat:right>eh! ça va [mal](bad), [je perde](i lost] [mon chapeau](my hat)
+12;5;1;2;3;Ryan: <chat:right>eh! ça va [mal](bad), [je perde](i lost) [mon chapeau](my hat)
